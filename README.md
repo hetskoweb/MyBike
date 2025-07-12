@@ -10,12 +10,12 @@ Experience the live website: [MyBike Demo](https://hetskoweb.github.io/MyBike/)
 
 **Core**
 * **HTML** - Markup
-* **Sass(v1.83.4)** - Styling
+* **Sass (v1.83.4)** - Styling
 * **JavaScript** - Scripting
 
 **Development**
-* **ESLint(v8.57.0)** - Code Quality
-* **Prettier(v3.3.2)** - Code Formatting
+* **ESLint (v8.57.0)** - Code Quality
+* **Prettier (v3.3.2)** - Code Formatting
 
 # Features
 
