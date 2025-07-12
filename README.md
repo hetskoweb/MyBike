@@ -31,7 +31,7 @@ Experience the live website: [MyBike Demo](https://hetskoweb.github.io/MyBike/)
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/hetskoweb/MyBike.git
 cd project-name
 ```
 
