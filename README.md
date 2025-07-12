@@ -32,7 +32,7 @@ Experience the live website: [MyBike Demo](https://hetskoweb.github.io/MyBike/)
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/hetskoweb/MyBike.git
-cd project-name
+cd MyBike
 ```
 
 2. **Install dependencies:**
