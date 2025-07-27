@@ -2,11 +2,11 @@
 
 This project is a responsive promotional website for an electric bike brand. It highlights key features, allows users to compare different models, and provides detailed specs and contact information. The site is designed to deliver a modern and clean user experience for potential customers interested in urban mobility solutions.
 
-# Live demo
+## Live demo
 
 Experience the live website: [MyBike Demo](https://hetskoweb.github.io/MyBike/)
 
-# Technologies Used 💻
+## Technologies Used 💻
 
 **Core**
 * **HTML** - Markup
@@ -17,7 +17,7 @@ Experience the live website: [MyBike Demo](https://hetskoweb.github.io/MyBike/)
 * **ESLint (v8.57.0)** - Code Quality
 * **Prettier (v3.3.2)** - Code Formatting
 
-# Features
+## Features
 
 - **Responsive Design:** Adaptive layouts for mobile, tablet, and desktop using SCSS mixins with media queries.
 - **Semantic HTML5 Structure:** Proper use of semantic tags like `<header>`, `<main>`, `<section>`, `<article>`, `<nav>`, and `<footer>`.
@@ -27,7 +27,7 @@ Experience the live website: [MyBike Demo](https://hetskoweb.github.io/MyBike/)
 - **Google Fonts Integration:** Uses the Poppins font for clean, modern typography.
 - **Accessibility Considerations:** Use of alt text on images and semantic markup for better accessibility.
 
-# Additional Setup Instructions
+## Additional Setup Instructions
 
 1. **Clone the repository:**
 ```bash
